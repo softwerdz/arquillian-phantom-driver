@@ -7,3 +7,5 @@
 2025-10-17 08:45:00 | WARN | repo=arquillian-phantom-driver | action=commit
 2025-10-08 17:42:00 | WARN | repo=arquillian-phantom-driver | action=commit
 2025-05-09 19:33:00 | DEBUG | repo=arquillian-phantom-driver | action=commit
+2025-10-08 07:37:00 | DEBUG | repo=arquillian-phantom-driver | action=pull
+2025-03-25 20:35:00 | DEBUG | repo=arquillian-phantom-driver | action=commit
